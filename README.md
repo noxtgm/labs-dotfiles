@@ -79,7 +79,7 @@ bash <(curl -fsSL https://raw.githubusercontent.com/noxtgm/labs/main/boot.sh)
 
 ## 📄 License
 
-[MIT](https://choosealicense.com/licenses/mit/)
+[MIT License](https://choosealicense.com/licenses/mit/)
 
 <br>
 
