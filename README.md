@@ -5,7 +5,7 @@ Personnal dotfiles with an installer utility which installs all necessary packag
 ## 📖 Installation
 
 ```bash
-bash <(curl -fsSL https://raw.githubusercontent.com/noxtgm/labs/main/boot.sh)
+bash <(curl -fsSL https://raw.githubusercontent.com/noxtgm/labs-dotfiles/main/boot.sh)
 ```
 
 ## ⌨️ Keybinds
