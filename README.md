@@ -1,14 +1,14 @@
-# labs
+# labs dotfiles
 
-## Install
+Personnal dotfiles with an installer utility which installs all necessary packages, scripts, and configs on a brand new minimal arch linux installation.
+
+## 📖 Installation
 
 ```bash
 bash <(curl -fsSL https://raw.githubusercontent.com/noxtgm/labs/main/boot.sh)
 ```
 
-
-
-## Keybinds
+## ⌨️ Keybinds
 
 ### Applications
 
@@ -38,9 +38,7 @@ bash <(curl -fsSL https://raw.githubusercontent.com/noxtgm/labs/main/boot.sh)
 - `SUPER` + `SHIFT` + `S`: Move window to scratchpad workspace.
 - `SUPER` + `[MWHEEL_UP-MWHEEL_DOWN]`: Switch to next/last workspace.
 
-
-
-## Shell commands
+## 📋 Shell commands
 
 ### List (eza)
 
@@ -78,3 +76,11 @@ bash <(curl -fsSL https://raw.githubusercontent.com/noxtgm/labs/main/boot.sh)
 - `gplr`: Pull with rebase.
 - `gf`: Fetch from remote.
 - `gr`: Rebase.
+
+## 📄 License
+
+[MIT](https://choosealicense.com/licenses/mit/)
+
+<br>
+
+<a href="https://ko-fi.com/noxtgm" target="_blank" rel="noreferrer"><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG00a3RqYTBzcmo2a2UxZGZ6bXl2dDY5Z2w0YmQ0Y2RxMWd0aWM4OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/bZgsAwXUIVU2tcKn7s/giphy.gif" alt="Support me on Ko-fi" width="240" height="55"/></a>
